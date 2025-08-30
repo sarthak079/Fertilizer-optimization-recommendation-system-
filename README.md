@@ -19,8 +19,6 @@ Styling: Tailwind CSS
 
 Package Management: npm
 
-Getting Started
-
 #Prerequisites
 
 Node.js
