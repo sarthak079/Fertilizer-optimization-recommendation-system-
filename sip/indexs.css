@@ -1,0 +1,76 @@
+
+.text-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.logos{
+    width: 90px;
+    height: 90px;
+    
+}
+.weather{
+    width: 100px;
+    height: 100px;
+}
+.track{
+    width: 60px;
+    height: 55px;
+}
+.recommend{
+    height: 80px;
+    width: 100px;
+}
+.back{
+    background-color: rgb(50,205,50);
+}
+.wheat{
+    height: 50px;
+    width: 50px;
+}
+.container{
+    margin-bottom: 50px;
+    padding: 10px;
+}
+.container h1{
+    color: white;
+}
+.imgs{
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 50px;
+    margin-top: 20px;
+    background-color: aliceblue;
+}
+.im{
+    height: 200px;
+}
+.i .ims{
+    height: 200px;
+    width: 150px;
+}
+.i{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid rgb(125, 84, 84);
+    border-radius: 0.5rem;
+    transition: all 0.3s linear;
+    padding: 10px;
+}
+.i h4{
+    color: rgb(232, 172, 82);
+}
+.i:hover{
+    transform: scale(1.15);
+    box-shadow: 1px 1px 10px rgb(77, 142, 240);
+    border: 3px solid rgb(105, 152, 232);
+}
+/* #myCarousel{
+    height: 400px;
+} */
