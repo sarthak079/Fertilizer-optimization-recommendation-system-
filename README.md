@@ -19,8 +19,6 @@ Styling: Tailwind CSS
 
 Package Management: npm
 
-Linting: ESLint
-
 Getting Started
 
 #Prerequisites
